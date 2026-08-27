@@ -1,0 +1,14 @@
+Number of currently logged in users CompletedProcess(args=['who'], returncode=0, stdout='arpitsmac        console      Jul 13 02:08 \narpitsmac        ttys000      Aug 23 19:46 \narpitsmac        ttys001      Aug 27 01:31 \n', stderr='')Number of currently logged in users CompletedProcess(args=['who'], returncode=0, stdout='arpitsmac        console      Jul 13 02:08 \narpitsmac        ttys000      Aug 23 19:46 \narpitsmac        ttys001      Aug 27 01:31 \n', stderr='')Number of currently logged in users CompletedProcess(args=['who'], returncode=0, stdout='arpitsmac        console      Jul 13 02:08 \narpitsmac        ttys000      Aug 23 19:46 \narpitsmac        ttys001      Aug 27 01:31 \n', stderr='')arpitsmac is currently logged inNumber of currently logged in users CompletedProcess(args=['who'], returncode=0, stdout='arpitsmac        console      Jul 13 02:08 \narpitsmac        ttys000      Aug 23 19:46 \narpitsmac        ttys001      Aug 27 01:31 \n', stderr='')arpitsmac is currently logged inarpitsmac  ttys001                         Thu Aug 27 01:31   still logged in
+arpitsmac  ttys001                         Wed Aug 26 10:43 - 10:43  (00:00)
+arpitsmac  ttys000                         Sun Aug 23 19:46   still logged in
+arpitsmac  ttys000                         Sat Aug 22 17:45 - 17:45  (00:00)
+arpitsmac  ttys000                         Thu Aug 20 18:26 - 18:26  (00:00)
+arpitsmac  ttys000                         Thu Aug 20 18:15 - 18:15  (00:00)
+arpitsmac  ttys000                         Wed Aug 19 15:10 - 15:10  (00:00)
+arpitsmac  ttys000                         Sun Aug 16 11:51 - 11:51  (00:00)
+arpitsmac  ttys000                         Mon Aug 10 22:15 - 22:15  (00:00)
+arpitsmac  ttys001                         Sat Aug  8 18:47 - 18:47  (00:00)
+arpitsmac  ttys001                         Thu Aug 27 01:31   still logged in
+Process is running1209
+CompletedProcess(args=['ps', '-p', '1209', '-o', '%cpu'], returncode=0, stdout=' %CPU\n  0.3\n', stderr='')
+CompletedProcess(args=['ps', 'p', '1209', '-o', '%mem'], returncode=0, stdout='%MEM\n 0.5\n', stderr='')
